@@ -19,7 +19,7 @@ SCCorrED is meant as an HR-EBSD alternative compatible with the popular MTEX EBS
 ### Installing
 
 * Clone/download this repository
-* Create a mtexHREBSD directory in '<'user directory'>'/.config directory (may need to create .config) and create "mtexHREBSDConfig.json" file with the following:
+* Create a mtexHREBSD directory in `<`user directory`>`/.config directory (may need to create .config) and create "mtexHREBSDConfig.json" file with the following:
 '''
 {
 	"tensorPath": "<location of MTEX's tensor directory>",
